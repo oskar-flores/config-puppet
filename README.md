@@ -3,7 +3,8 @@
 This scrips helps for the istallation fo some basic apps for a development environent
 
 It only depends from chocolatey, so instead of making:
- ```puppet install module cchocolatey-choclolatey```
+ 
+ ```puppet install module cchocolatey-chocolatey```
 
 it is just provided.
 
